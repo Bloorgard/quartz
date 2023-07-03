@@ -3,21 +3,23 @@ title: 🪴 Pustota
 enableToc: false
 ---
 
-Мой первый тестовый текст
-
-Чё за нах
+Электронная картотека интересных штук
 
 
+## Основные списки
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+Список нейросетевых инструментов
+[[notes/AI_tools|Нейросетевые инструменты]]
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+Креативный кодинг
+[[notes/Creative_coding|Креативный кодинг]]
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
 
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+Ссылки на меня
+- [Портфолио](https://pustota.name/)
+- [Инстаграм](https://www.instagram.com/pustota.name/)
+- [Телеграм канал](https://t.me/vse_pustoe)
+- [Твиттер](https://twitter.com/Bloorgard)
+- [Мастодон](https://socel.net/@Pustota)
+- [Гитхаб](https://github.com/Bloorgard)
 
