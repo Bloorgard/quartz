@@ -19,5 +19,5 @@ enableToc: false
 - [Телеграм канал](https://t.me/vse_pustoe)
 - [Твиттер](https://twitter.com/Bloorgard)
 - [Мастодон](https://socel.net/@Pustota)
-- [Гитхаб](https://github.com/Bloorgard)
+- [instagram](https://www.instagram.com/pustota.name/)
 
