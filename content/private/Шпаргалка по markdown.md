@@ -111,3 +111,7 @@ else:
 [[private/Link to a note within Obsidian]]
 
 > 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+
+! [https://disk.yandex.ru/i/CgCxjNBf6c1GSA]
+
+https://disk.yandex.ru/i/CgCxjNBf6c1GSA
