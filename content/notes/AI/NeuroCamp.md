@@ -12,24 +12,4 @@
 ДЗ №5.3
 
 
-### Домашка №12
-[Таблица с данными команд](https://docs.google.com/spreadsheets/d/1pETFdFvbT50lrfQUPCCUQStq-R8iPozkASDmbM0bsgQ/edit#gid=0)
-
-#### Дополнительные матералы для ДЗ 12
-
-##### Инструменты
-
-Зероскоп на коллабе
-https://www.youtube.com/watch?v=WHcjD-uraUs&ab_channel=camenduru
-
-##### Рефы
-
-С ведьмаком
-https://www.youtube.com/watch?v=ev3Rt1w3Efk&ab_channel=2elko
-
-Видос с помошью фотошопа
-https://www.youtube.com/watch?v=FicG9RGVha4&ab_channel=Mickmumpitz
-
-
-
-## Доп материалы
+### [[Домашка №6]]
