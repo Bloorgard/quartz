@@ -1,4 +1,7 @@
 
+Базовый курс (ru)
+https://www.youtube.com/playlist?list=PLxxAZ1h_DStk6acOvXMu2foF7zP9zRB-Q
+
 Туториалы от креативного куба (ru)
 https://www.youtube.com/@XENIASANGINA
 
@@ -12,4 +15,11 @@ https://www.youtube.com/watch?v=Tpnw9fSd_aY
 https://www.youtube.com/watch?v=d7mYSwj2OWU&ab_channel=PaoOlea
 
 
+Ещё каналы
+https://www.youtube.com/@elekktronaut
 
+Видосы
+https://www.youtube.com/watch?v=PSW8_ZkcPrk&ab_channel=IT-сообществоВолгоградаiT-34
+
+
+https://www.youtube.com/@pppanik2040/videos
