@@ -18,6 +18,7 @@
 ### Классные модельки
 - [MotionDesignV1 (3Dart,C4D style)](https://civitai.com/models/92770/motiondesignv1-3dartc4d-style)
 - [Product Design (minimalism-eddiemauro)](https://civitai.com/models/23893/product-design-minimalism-eddiemauro)
+- [CharTurnerBeta](https://civitai.com/models/7252/charturnerbeta-lora-experimental)
 
 ### Промпты
 - [Stable Diffusion V1 Modifier Studies](https://proximacentaurib.notion.site/2b07d3195d5948c6a7e5836f9d535592?v=b5b75a67cc52483c9965cfc141f6f582)
