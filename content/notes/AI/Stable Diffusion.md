@@ -15,10 +15,23 @@
 - [Оутпеинт](https://www.youtube.com/watch?v=bRViS8MEElI&ab_channel=StableDiff)
 
 
-### Классные модельки
+### Модельки
+##### Каталоги
+- https://civitai.com/
+- 
+
+
+##### Дизайнерские
 - [MotionDesignV1 (3Dart,C4D style)](https://civitai.com/models/92770/motiondesignv1-3dartc4d-style)
 - [Product Design (minimalism-eddiemauro)](https://civitai.com/models/23893/product-design-minimalism-eddiemauro)
+
+
+##### Реалистичные
+-  https://civitai.com/models/4823/deliberate
+- 
+##### Специальные
 - [CharTurnerBeta](https://civitai.com/models/7252/charturnerbeta-lora-experimental)
+
 
 ### Промпты
 - [Stable Diffusion V1 Modifier Studies](https://proximacentaurib.notion.site/2b07d3195d5948c6a7e5836f9d535592?v=b5b75a67cc52483c9965cfc141f6f582)
@@ -31,3 +44,10 @@
 - [CLIP Interrogator extension](https://github.com/pharmapsychotic/clip-interrogator-ext)
 - [text2prompt](https://github.com/toshiaki1729/stable-diffusion-webui-text2prompt)
 - [sd-dynamic-prompts](https://github.com/adieyal/sd-dynamic-prompts)
+
+
+### Коллабы
+
+Какая-то подборка
+https://github.com/camenduru/stable-diffusion-webui-colab
+

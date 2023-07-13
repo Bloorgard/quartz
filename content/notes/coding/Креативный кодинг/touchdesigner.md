@@ -21,5 +21,8 @@ https://www.youtube.com/@elekktronaut
 Видосы
 https://www.youtube.com/watch?v=PSW8_ZkcPrk&ab_channel=IT-сообществоВолгоградаiT-34
 
+Absolute Beginner TouchDesigner | From Zero to Hero with Examples and Assignments
+https://www.youtube.com/watch?v=qbupHTeJCeU&ab_channel=Acrylicode
+
 
 https://www.youtube.com/@pppanik2040/videos
