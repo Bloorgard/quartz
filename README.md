@@ -1,6 +1,6 @@
 # Quartz
 
-Мой диджитал брейн. 
+Мой диджитал брейн. https://bloorgard.github.io/quartz/
 
 
 

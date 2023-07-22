@@ -2,4 +2,4 @@
 
 
 - [[ChatGPT]]
-- [[/notes/Dall-e|Dall-e]]
+- [[Dall-e|Dall-e]]

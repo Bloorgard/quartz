@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "content/notes/AI/ИИ инструменты.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "content/notes/AI/ИИ инструменты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "content/notes/AI/ИИ инструменты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "content/notes/AI/ИИ инструменты.md"
               }
             }
           }
@@ -225,8 +225,15 @@
   },
   "active": "85724974d1575b0a",
   "lastOpenFiles": [
-    "README_old.md",
+    "Stability AI.md",
+    "content/notes/AI/ИИ инструменты.md",
+    "content/notes/AI/Генерация текста.md",
+    "content/notes/AI/Генерация графики.md",
+    "content/notes/AI/Принципы работы ИИ.md",
+    "content/notes/AI/Генерация видео.md",
+    "content/notes/AI/Dall-e.md",
     "README.md",
+    "README_old.md",
     "screenshot.png",
     "CODE_OF_CONDUCT.md",
     "content/notes/AI/Runway.md",
@@ -235,11 +242,8 @@
     "content/notes/AI/ComfyUI.md",
     "content/notes/AI/Automatic 1111.md",
     "content/notes/AI/Stable Diffusion.md",
-    "content/notes/AI/Генерация графики.md",
     "content/notes/AI/OpenAi.md",
-    "notes/Dall-e.md",
     "notes",
-    "content/notes/AI/ИИ инструменты.md",
     "content/notes/ideas/Занятные штуки.md",
     "content/notes/ideas/Мысли.md",
     "content/notes/ideas/Универсальные инструменты дизайнера.md",
@@ -249,7 +253,6 @@
     "content/_index.md",
     "content/Клеточные автоматы.md",
     "content/Пиксели и перцептроны.md",
-    "content/Разобрать ссылки.md",
-    "content/чистый JS.md"
+    "content/Разобрать ссылки.md"
   ]
 }
