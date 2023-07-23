@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/AI/ИИ инструменты.md",
+                "file": "content/notes/Stability AI.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/AI/ИИ инструменты.md",
+                "file": "content/notes/Stability AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/AI/ИИ инструменты.md",
+                "file": "content/notes/Stability AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/AI/ИИ инструменты.md"
+                "file": "content/notes/Stability AI.md"
               }
             }
           }
@@ -223,19 +223,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85724974d1575b0a",
+  "active": "9e4d547e4c6046ae",
   "lastOpenFiles": [
-    "content/_index.md",
-    "README_old.md",
+    "README.md",
+    "screenshot.png",
     "content/notes/AI/ИИ инструменты.md",
-    "Stability AI.md",
+    "README_old.md",
+    "content/_index.md",
+    "content/notes/Stability AI.md",
     "content/notes/AI/Генерация текста.md",
     "content/notes/AI/Генерация графики.md",
     "content/notes/AI/Принципы работы ИИ.md",
     "content/notes/AI/Генерация видео.md",
     "content/notes/AI/Dall-e.md",
-    "README.md",
-    "screenshot.png",
     "CODE_OF_CONDUCT.md",
     "content/notes/AI/Runway.md",
     "content/notes/AI/Сбер.md",
@@ -252,7 +252,6 @@
     "content/notes/coding/Креативный кодинг/Креативный кодинг.md",
     "content/notes/ideas",
     "content/Клеточные автоматы.md",
-    "content/Пиксели и перцептроны.md",
-    "content/Разобрать ссылки.md"
+    "content/Пиксели и перцептроны.md"
   ]
 }
