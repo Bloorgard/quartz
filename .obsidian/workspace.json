@@ -89,8 +89,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/AI/Яндекс.md",
+                "file": "content/notes/AI/Stable Diffusion.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -162,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/AI/Яндекс.md",
+                "file": "content/notes/AI/Stable Diffusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/AI/Яндекс.md",
+                "file": "content/notes/AI/Stable Diffusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/AI/Яндекс.md"
+                "file": "content/notes/AI/Stable Diffusion.md"
               }
             }
           }
@@ -225,34 +226,34 @@
   },
   "active": "85724974d1575b0a",
   "lastOpenFiles": [
-    "content/notes/AI/Шедеврум.md",
-    "content/notes/AI/Сбер.md",
-    "content/notes/AI/OpenAi.md",
-    "content/notes/AI/Генерация видео.md",
-    "content/notes/AI/Runway.md",
-    "ChatGPT.md",
     "content/notes/AI/Automatic 1111.md",
-    "content/notes/AI/ComfyUI.md",
-    "content/notes/AI/Midjorney.md",
-    "content/notes/AI/Dall-e.md",
-    "content/notes/AI/NeuroCamp.md",
     "content/notes/AI/Stable Diffusion.md",
-    "content/notes/AI/Генерация графики.md",
-    "content/notes/AI/Генерация звука.md",
     "content/notes/AI/ИИ инструменты.md",
     "content/notes/AI/Кандинский.md",
     "content/notes/AI/Принципы работы ИИ.md",
+    "content/notes/AI/Генерация видео.md",
     "content/notes/Stability AI.md",
+    "content/notes/AI/Генерация звука.md",
+    "Модели SD.md",
+    "content/notes/AI/ComfyUI.md",
+    "content/notes/AI/Генерация графики.md",
+    "content/notes/AI/Яндекс.md",
+    "content/notes/AI/Шедеврум.md",
+    "content/notes/AI/Сбер.md",
+    "content/notes/AI/OpenAi.md",
+    "content/notes/AI/Runway.md",
+    "ChatGPT.md",
+    "content/notes/AI/Midjorney.md",
+    "content/notes/AI/Dall-e.md",
+    "content/notes/AI/NeuroCamp.md",
     "README.md",
     "screenshot.png",
     "README_old.md",
     "content/_index.md",
     "content/notes/AI/Генерация текста.md",
     "CODE_OF_CONDUCT.md",
-    "content/notes/AI/Яндекс.md",
     "notes",
     "content/notes/ideas/Занятные штуки.md",
-    "content/notes/ideas/Мысли.md",
     "content/notes/ideas"
   ]
 }
