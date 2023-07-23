@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/AI/Automatic 1111.md",
+                "file": "content/notes/AI/OpenAi.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/AI/Automatic 1111.md",
+                "file": "content/notes/AI/OpenAi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/AI/Automatic 1111.md",
+                "file": "content/notes/AI/OpenAi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/AI/Automatic 1111.md"
+                "file": "content/notes/AI/OpenAi.md"
               }
             }
           }
@@ -223,17 +223,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e4d547e4c6046ae",
+  "active": "85724974d1575b0a",
   "lastOpenFiles": [
+    "content/notes/AI/Генерация видео.md",
+    "content/notes/AI/OpenAi.md",
+    "content/notes/AI/Runway.md",
+    "ChatGPT.md",
+    "content/notes/AI/Automatic 1111.md",
     "content/notes/AI/ComfyUI.md",
     "content/notes/AI/Midjorney.md",
     "content/notes/AI/Dall-e.md",
-    "content/notes/AI/Automatic 1111.md",
     "content/notes/AI/NeuroCamp.md",
-    "content/notes/AI/OpenAi.md",
-    "content/notes/AI/Runway.md",
     "content/notes/AI/Stable Diffusion.md",
-    "content/notes/AI/Генерация видео.md",
     "content/notes/AI/Генерация графики.md",
     "content/notes/AI/Генерация звука.md",
     "content/notes/AI/ИИ инструменты.md",
@@ -252,7 +253,6 @@
     "content/notes/ideas/Занятные штуки.md",
     "content/notes/ideas/Мысли.md",
     "content/notes/ideas/Универсальные инструменты дизайнера.md",
-    "content/notes/ideas/Шахматы.md",
     "content/notes/ideas"
   ]
 }
