@@ -23,10 +23,6 @@
 ##### API
 
 
-
-
-
-
 ### Ссылки
 
 [Ветка в реддит](https://www.reddit.com/r/StableDiffusion)
