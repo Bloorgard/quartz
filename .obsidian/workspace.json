@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/AI/OpenAi.md",
+                "file": "content/notes/AI/Яндекс.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/AI/OpenAi.md",
+                "file": "content/notes/AI/Яндекс.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/AI/OpenAi.md",
+                "file": "content/notes/AI/Яндекс.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/AI/OpenAi.md"
+                "file": "content/notes/AI/Яндекс.md"
               }
             }
           }
@@ -225,8 +225,10 @@
   },
   "active": "85724974d1575b0a",
   "lastOpenFiles": [
-    "content/notes/AI/Генерация видео.md",
+    "content/notes/AI/Шедеврум.md",
+    "content/notes/AI/Сбер.md",
     "content/notes/AI/OpenAi.md",
+    "content/notes/AI/Генерация видео.md",
     "content/notes/AI/Runway.md",
     "ChatGPT.md",
     "content/notes/AI/Automatic 1111.md",
@@ -247,12 +249,10 @@
     "content/_index.md",
     "content/notes/AI/Генерация текста.md",
     "CODE_OF_CONDUCT.md",
-    "content/notes/AI/Сбер.md",
     "content/notes/AI/Яндекс.md",
     "notes",
     "content/notes/ideas/Занятные штуки.md",
     "content/notes/ideas/Мысли.md",
-    "content/notes/ideas/Универсальные инструменты дизайнера.md",
     "content/notes/ideas"
   ]
 }
