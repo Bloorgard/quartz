@@ -89,9 +89,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/AI/Stable Diffusion.md",
+                "file": "content/notes/AI/Модели SD.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               }
             }
@@ -163,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/AI/Stable Diffusion.md",
+                "file": "content/notes/AI/Модели SD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/AI/Stable Diffusion.md",
+                "file": "content/notes/AI/Модели SD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/AI/Stable Diffusion.md"
+                "file": "content/notes/AI/Модели SD.md"
               }
             }
           }
@@ -224,17 +223,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85724974d1575b0a",
+  "active": "9e4d547e4c6046ae",
   "lastOpenFiles": [
+    "README.md",
+    "content/notes/AI/ChatGPT.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "2023-07-24.md",
     "content/notes/AI/ИИ инструменты.md",
-    "content/notes/Stability AI.md",
     "content/notes/AI/Stable Diffusion.md",
+    "content/notes/AI/Stability AI.md",
     "content/notes/AI/Automatic 1111.md",
     "content/notes/AI/Кандинский.md",
     "content/notes/AI/Принципы работы ИИ.md",
     "content/notes/AI/Генерация видео.md",
     "content/notes/AI/Генерация звука.md",
-    "Модели SD.md",
+    "content/notes/AI/Модели SD.md",
     "content/notes/AI/ComfyUI.md",
     "content/notes/AI/Генерация графики.md",
     "content/notes/AI/Яндекс.md",
@@ -242,18 +246,14 @@
     "content/notes/AI/Сбер.md",
     "content/notes/AI/OpenAi.md",
     "content/notes/AI/Runway.md",
-    "ChatGPT.md",
     "content/notes/AI/Midjorney.md",
     "content/notes/AI/Dall-e.md",
     "content/notes/AI/NeuroCamp.md",
-    "README.md",
     "screenshot.png",
     "README_old.md",
     "content/_index.md",
     "content/notes/AI/Генерация текста.md",
-    "CODE_OF_CONDUCT.md",
     "notes",
-    "content/notes/ideas/Занятные штуки.md",
     "content/notes/ideas"
   ]
 }
