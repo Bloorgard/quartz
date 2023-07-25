@@ -13,71 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/coding/Креативный кодинг/Креативный кодинг.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c438b2195551d63e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "10f63018aeccb5e9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "8fe44707fa2f169d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/AI/Яндекс.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e8ce96a1e97ccb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/AI/Runway.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b322ff6118dfdef1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/AI/Сбер.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "575a58c6a3110af2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/AI/Сбер.md",
+                "file": "content/notes/AI/Модели SD.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,14 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/AI/Модели SD.md",
+                "file": "Кодинг.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,36 +159,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85724974d1575b0a",
+  "active": "85df22143168b56a",
   "lastOpenFiles": [
+    "content/notes/AI/Automatic 1111.md",
     "content/notes/AI/Stable Diffusion.md",
     "content/notes/AI/ИИ инструменты.md",
-    "content/notes/AI/ChatGPT.md",
+    "Кодинг.md",
+    "content/_index.md",
+    "CODE_OF_CONDUCT.md",
     "README.md",
+    "content/notes/AI/OpenSouce LLM.md",
+    "2023-07-24.md",
     "content/notes/AI/Модели SD.md",
+    "content/notes/AI/Принципы работы ИИ.md",
+    "content/notes/AI/Stability AI.md",
+    "content/notes/coding/Креативный кодинг/Креативный кодинг.md",
+    "content/notes/AI/Runway.md",
+    "content/notes/AI/Яндекс.md",
+    "content/notes/AI/Сбер.md",
+    "content/notes/AI/ControlNet.md",
+    "content/notes/AI/ChatGPT.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "2023-07-24.md",
-    "content/notes/AI/Stability AI.md",
-    "content/notes/AI/Automatic 1111.md",
     "content/notes/AI/Кандинский.md",
-    "content/notes/AI/Принципы работы ИИ.md",
     "content/notes/AI/Генерация видео.md",
     "content/notes/AI/Генерация звука.md",
     "content/notes/AI/ComfyUI.md",
     "content/notes/AI/Генерация графики.md",
-    "content/notes/AI/Яндекс.md",
     "content/notes/AI/Шедеврум.md",
-    "content/notes/AI/Сбер.md",
     "content/notes/AI/OpenAi.md",
-    "content/notes/AI/Runway.md",
     "content/notes/AI/Midjorney.md",
-    "content/notes/AI/Dall-e.md",
-    "content/notes/AI/NeuroCamp.md",
     "screenshot.png",
-    "README_old.md",
-    "content/_index.md",
-    "content/notes/AI/Генерация текста.md",
     "notes",
     "content/notes/ideas"
   ]

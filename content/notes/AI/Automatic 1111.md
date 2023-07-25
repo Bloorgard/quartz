@@ -4,7 +4,9 @@ SD можно использовать разными способами. Сам
 ### Локально
 - [Сам Automatic 1111 (GitHab)](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
+
 ### Аддоны Automatic
+- [[ControlNet]]
 - [multidiffusion-upscaler](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111)
 - [CLIP Interrogator extension](https://github.com/pharmapsychotic/clip-interrogator-ext)
 - [text2prompt](https://github.com/toshiaki1729/stable-diffusion-webui-text2prompt)
@@ -22,4 +24,8 @@ SD можно использовать разными способами. Сам
 
 ### Справочные материалы и туториалы
 - [Сиснтаксис Automatic 1111](https://tengyart.ru/sintaksis-stable-diffusion-v-automatic1111-i-nmkd/)
+
+
+
+[[Модели SD]] 
 - 
