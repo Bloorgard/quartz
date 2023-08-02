@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Кодинг.md",
+                "file": "content/notes/AI/Модели SD.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -44,8 +44,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "44430ece760f5a4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SoundFeel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,24 +185,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85df22143168b56a",
+  "active": "85724974d1575b0a",
   "lastOpenFiles": [
+    "content/notes/AI/Automatic 1111.md",
     "content/notes/AI/Stable Diffusion.md",
     "content/notes/AI/ИИ инструменты.md",
-    "content/notes/AI/Генерация графики.md",
+    "content/notes/AI/Принципы работы ИИ.md",
+    "content/notes/AI/Пиксели и перцептроны.md",
     "Кодинг.md",
-    "SoundFeel.md",
-    "content/notes/AI/Генерация звука.md",
-    "content/notes/AI/Automatic 1111.md",
     "content/notes/AI/Модели SD.md",
+    "SoundFeel.md",
     "Электроника.md",
+    "content/notes/AI/Генерация графики.md",
+    "content/notes/AI/Генерация звука.md",
     "content/notes/AI/Stability AI.md",
     "content/_index.md",
     "CODE_OF_CONDUCT.md",
     "README.md",
     "content/notes/AI/OpenSouce LLM.md",
     "2023-07-24.md",
-    "content/notes/AI/Принципы работы ИИ.md",
     "content/notes/coding/Креативный кодинг/Креативный кодинг.md",
     "content/notes/AI/Runway.md",
     "content/notes/AI/Яндекс.md",
@@ -201,7 +215,6 @@
     "content/notes/AI/Кандинский.md",
     "content/notes/AI/Генерация видео.md",
     "content/notes/AI/ComfyUI.md",
-    "content/notes/AI/Шедеврум.md",
     "screenshot.png",
     "notes",
     "content/notes/ideas"
