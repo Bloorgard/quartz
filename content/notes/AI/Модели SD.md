@@ -32,38 +32,41 @@
 - MotionDesignV1 — https://civitai.com/models/92770/motiondesignv1-3dartc4d-style
 - Arthemy Objects https://civitai.com/models/88128/arthemy-objects
 - Product Design (minimalism-eddiemauro) — [Product Design (minimalism-eddiemauro)](https://civitai.com/models/23893/product-design-minimalism-eddiemauro)
-- 
+- product-design — https://huggingface.co/stablediffusionapi/product-design
 
 ##### 3d
 - Bdicon (3д иконки) —  https://civitai.com/models/100056/bdicon
 - businessdesign — https://civitai.com/models/116495/businessdesign
 - Плюш — https://civitai.com/models/9668/plushies
 
-Абстрактные
+**Абстрактные**
 - https://civitai.com/models/115188/hylv6 — капельки пурпура
 - DesignMeld — https://civitai.com/models/23263?modelVersionId=27783
 - Holographic model — https://civitai.com/models/28778/holographic-model
 
-Паттерны
+**Паттерны**
 - Floral patterns — https://civitai.com/models/26295/floral-patterns
 - Floral patterns merge — https://civitai.com/models/26464/floral-patterns-merge
-- 
-Иллюстративные
+
+**Иллюстративные**
 - https://civitai.com/models/7884/graphic-art
 - illustration model — https://civitai.com/models/25898/illustration-model
-
 - JIM JORCRAF
 - Game Icon Institute_mode — https://civitai.com/models/47800/game-icon-institutemode
 - T-shirt print designs (test model) — https://civitai.com/models/5256/t-shirt-print-designs-test-model
 
-Стилёвое
+Лоры
+- Acid Mix Æsthetics : Holographic/Chrome/Glass Effects — https://civitai.com/models/91583?modelVersionId=97620
+- Chrome tech —  https://civitai.com/models/118153/chrome-tech-world-morph
+
+
+**Стилёвое**
 - SynthwavePunk — https://civitai.com/models/1102/synthwavepunk
 - JIM EIDOMODE — https://civitai.com/models/10720/jim-eidomode
 - Pareidolia Gateway — https://civitai.com/models/1242/pareidolia-gateway
 
 обязательно затестить
-https://civitai.com/models/97808/pseudo-flex-base 
-
+- https://civitai.com/models/97808/pseudo-flex-base 
 - graphic-art — https://civitai.com/models/7884/graphic-art
 - ColorfulSurrealismAI https://civitai.com/models/12437/colorfulsurrealismai
 - 2.8D STABLE BEST VERSION — https://civitai.com/models/77446/28d-stable-best-version
@@ -79,7 +82,6 @@ https://civitai.com/models/97808/pseudo-flex-base
 
 Хрен с ним. Аниме
 - https://civitai.com/models/105047/break-the-darkness
-- 
 
 ##### Специальные
 - [CharTurnerBeta](https://civitai.com/models/7252/charturnerbeta-lora-experimental)
@@ -97,7 +99,6 @@ https://civitai.com/models/97808/pseudo-flex-base
 Арты
 - DGSpitzer Art Diffusion - https://civitai.com/models/4787/dgspitzer-art-diffusion
 - Город грехов — https://civitai.com/models/1228/sin-city-movie-style
-- 
 
 Модели для Inpaint
 

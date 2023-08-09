@@ -21,12 +21,24 @@
             }
           },
           {
+            "id": "35ae1365718bd77a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Кодинг.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "85724974d1575b0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/AI/Модели SD.md",
+                "file": "content/notes/AI/ИИ инструменты.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -56,9 +68,41 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "47a28691cd34c575",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/coding/Креативный кодинг/Креативный кодинг.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ecd014fa6c1f482",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e68f35f21bfa3322",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "идеи для карттинки гивэвей.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -87,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "work",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +148,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -124,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/AI/Модели SD.md",
+                "file": "content/notes/AI/ИИ инструменты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/AI/Модели SD.md",
+                "file": "content/notes/AI/ИИ инструменты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/AI/Модели SD.md"
+                "file": "content/notes/AI/ИИ инструменты.md"
               }
             }
           }
@@ -172,8 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,24 +231,25 @@
   },
   "active": "85724974d1575b0a",
   "lastOpenFiles": [
+    "Кодинг.md",
+    "идеи для карттинки гивэвей.md",
+    "content/notes/AI/Модели SD.md",
     "content/notes/AI/Automatic 1111.md",
     "content/notes/AI/Stable Diffusion.md",
+    "content/notes/AI/Stability AI.md",
     "content/notes/AI/ИИ инструменты.md",
-    "content/notes/AI/Принципы работы ИИ.md",
-    "content/notes/AI/Пиксели и перцептроны.md",
-    "Кодинг.md",
-    "content/notes/AI/Модели SD.md",
+    "content/notes/coding/Креативный кодинг/Креативный кодинг.md",
     "SoundFeel.md",
     "Электроника.md",
+    "content/notes/AI/Принципы работы ИИ.md",
+    "content/notes/AI/Пиксели и перцептроны.md",
     "content/notes/AI/Генерация графики.md",
     "content/notes/AI/Генерация звука.md",
-    "content/notes/AI/Stability AI.md",
     "content/_index.md",
     "CODE_OF_CONDUCT.md",
     "README.md",
     "content/notes/AI/OpenSouce LLM.md",
     "2023-07-24.md",
-    "content/notes/coding/Креативный кодинг/Креативный кодинг.md",
     "content/notes/AI/Runway.md",
     "content/notes/AI/Яндекс.md",
     "content/notes/AI/Сбер.md",
@@ -214,7 +259,6 @@
     "Untitled.canvas",
     "content/notes/AI/Кандинский.md",
     "content/notes/AI/Генерация видео.md",
-    "content/notes/AI/ComfyUI.md",
     "screenshot.png",
     "notes",
     "content/notes/ideas"
