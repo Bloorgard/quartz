@@ -103,3 +103,10 @@
 Модели для Inpaint
 
 VAE
+
+
+
+
+Разобрать модели
+- China-Chic-illustration https://huggingface.co/tilake/China-Chic-illustration
+- 
