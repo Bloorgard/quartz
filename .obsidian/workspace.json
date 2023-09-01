@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/AI/Automatic 1111.md",
+                "file": "content/notes/AI/ControlNet.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/AI/Automatic 1111.md",
+                "file": "content/notes/AI/ControlNet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/AI/Automatic 1111.md",
+                "file": "content/notes/AI/ControlNet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/AI/Automatic 1111.md"
+                "file": "content/notes/AI/ControlNet.md"
               }
             }
           }
@@ -185,8 +185,8 @@
   },
   "active": "85724974d1575b0a",
   "lastOpenFiles": [
-    "content/notes/AI/Модели SD.md",
     "content/notes/AI/Automatic 1111.md",
+    "content/notes/AI/Модели SD.md",
     "content/notes/AI/SD v1.5.md",
     "content/notes/AI/ControlNet.md",
     "SD v2.1.md",

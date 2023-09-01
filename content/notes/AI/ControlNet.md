@@ -1,4 +1,4 @@
-
+Про констрол нет
 
 - Текст про контролнет 
   https://journal.tinkoff.ru/controlnet/
