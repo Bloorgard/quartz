@@ -8,51 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "85df22143168b56a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/AI/Модели SD.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35ae1365718bd77a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Кодинг.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "85724974d1575b0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/AI/ИИ инструменты.md",
+                "file": "content/notes/AI/Automatic 1111.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f0aa4a8f263344f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Электроника.md",
-                "mode": "source",
                 "source": false
               }
             }
@@ -75,14 +38,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/coding/Креативный кодинг/Креативный кодинг.md",
+                "file": "content/notes/ideas/Шахматы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0ad92d340818983",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Избранные работы.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "колл",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1f2c591ad4540e79",
@@ -150,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/coding/Креативный кодинг/Креативный кодинг.md",
+                "file": "content/notes/AI/Automatic 1111.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/coding/Креативный кодинг/Креативный кодинг.md",
+                "file": "content/notes/AI/Automatic 1111.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/coding/Креативный кодинг/Креативный кодинг.md"
+                "file": "content/notes/AI/Automatic 1111.md"
               }
             }
           }
@@ -211,36 +184,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47a28691cd34c575",
+  "active": "85724974d1575b0a",
   "lastOpenFiles": [
-    "SoundFeel.md",
     "content/notes/coding/Креативный кодинг/Креативный кодинг.md",
-    "Кодинг.md",
-    "идеи для картинки гивэвей.md",
-    "content/notes/AI/Модели SD.md",
+    "content/_index.md",
+    "content/notes/coding/Кодинг.md",
     "content/notes/AI/ИИ инструменты.md",
-    "content/notes/AI/Automatic 1111.md",
     "content/notes/AI/Stable Diffusion.md",
-    "content/notes/AI/Stability AI.md",
+    "content/notes/AI/Automatic 1111.md",
+    "content/notes/AI/Модели SD.md",
+    "SoundFeel.md",
+    "content/notes/ideas/Шахматы.md",
+    "Избранные работы.md",
+    "content/notes/Work/Топ студий.md",
+    "Дизайн ссылки.md",
+    "content/Домашка №6.md",
+    "content/notes/coding/Работа с GIT.md",
+    "Untitled.md",
     "Электроника.md",
+    "content/2023-07-13.md",
+    "Untitled.canvas",
+    "content/notes/AI/SDXL.md",
+    "README.md",
+    "CODE_OF_CONDUCT.md",
+    "2023-08-17.md",
+    "идеи для картинки гивэвей.md",
+    "content/notes/AI/SD v1.5.md",
+    "content/notes/AI/Stability AI.md",
     "content/notes/AI/Принципы работы ИИ.md",
     "content/notes/AI/Пиксели и перцептроны.md",
-    "content/notes/AI/Генерация графики.md",
-    "content/notes/AI/Генерация звука.md",
-    "content/_index.md",
-    "CODE_OF_CONDUCT.md",
-    "README.md",
-    "content/notes/AI/OpenSouce LLM.md",
-    "2023-07-24.md",
-    "content/notes/AI/Runway.md",
-    "content/notes/AI/Яндекс.md",
-    "content/notes/AI/Сбер.md",
-    "content/notes/AI/ControlNet.md",
-    "content/notes/AI/ChatGPT.md",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "content/notes/AI/Кандинский.md",
-    "content/notes/AI/Генерация видео.md",
     "screenshot.png",
     "notes",
     "content/notes/ideas"

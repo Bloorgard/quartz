@@ -16,6 +16,7 @@ SD можно использовать разными способами. Сам
 - [NoCrypt](https://colab.research.google.com/drive/1wEa-tS10h4LlDykd87TF5zzpXIIQoCmq#scrollTo=mgKX41doZJ3u)
 - [TheLastBen](https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast_stable_diffusion_AUTOMATIC1111.ipynb)
 - [{dax-wrld}](https://colab.research.google.com/github/dax-wrld/Stable-Diffusion-WebUI/blob/main/SMART_Colab_v3.ipynb?hl=ru&pli=1&authuser=1#scrollTo=q8re2uVveke3)
+- [SDXL](https://github.com/camenduru/sdxl-colab)
 - [Какая-то подборка](https://github.com/camenduru/stable-diffusion-webui-colab)
  
 
