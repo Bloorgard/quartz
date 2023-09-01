@@ -5,25 +5,25 @@
 - [Lit](https://civitai.com/models/51145/lit) — как фотки в высоком ключе
 - CyberRealistic https://civitai.com/models/15003/cyberrealistic?modelVersionId=114429
 
-**Паттерны**
+#### **Паттерны**
 - Floral patterns — https://civitai.com/models/26295/floral-patterns
 - Floral patterns merge — https://civitai.com/models/26464/floral-patterns-merge
 
-Арты
+#### Арты
 - DGSpitzer Art Diffusion - https://civitai.com/models/4787/dgspitzer-art-diffusion
 - Город грехов — https://civitai.com/models/1228/sin-city-movie-style
 
-Лоры
+#### Лоры
 - Acid Mix Æsthetics : Holographic/Chrome/Glass Effects — https://civitai.com/models/91583?modelVersionId=97620
 - Chrome tech —  https://civitai.com/models/118153/chrome-tech-world-morph
 
-Интересные
+#### Интересные
 - Китайский комикс https://civitai.com/models/108598/7070s-chinese-comics
 
 Хрен с ним. Аниме
 - https://civitai.com/models/105047/break-the-darkness
 
-### Дизайнерские
+#### Дизайнерские
 ##### Объекты
 - MotionDesignV1 — https://civitai.com/models/92770/motiondesignv1-3dartc4d-style
 - Arthemy Objects https://civitai.com/models/88128/arthemy-objects

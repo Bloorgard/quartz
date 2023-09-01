@@ -4,7 +4,6 @@ SD можно использовать разными способами. Сам
 ### Локально
 - [Сам Automatic 1111 (GitHab)](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
-
 ### Аддоны Automatic
 - [[ControlNet]]
 - [multidiffusion-upscaler](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111)
@@ -19,10 +18,6 @@ SD можно использовать разными способами. Сам
 - [SDXL](https://github.com/camenduru/sdxl-colab)
 - [Какая-то подборка](https://github.com/camenduru/stable-diffusion-webui-colab)
  
-
-- ControlNet на репликейт
-  https://replicate.com/rossjillian/controlnet
-
 ### Справочные материалы и туториалы
 - [Сиснтаксис Automatic 1111](https://tengyart.ru/sintaksis-stable-diffusion-v-automatic1111-i-nmkd/)
 
