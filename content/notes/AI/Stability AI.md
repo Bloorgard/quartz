@@ -3,4 +3,4 @@
 - [[notes/AI/Stable Diffusion|Stable Diffusion]]
 - clipdrop
 
-[[Модели SD]]
+[[SD models]]
