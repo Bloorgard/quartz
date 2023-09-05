@@ -66,8 +66,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,10 +193,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b5ad524236b12d3",
+  "active": "85724974d1575b0a",
   "lastOpenFiles": [
-    "content/notes/AI/Генерация графики.md",
+    "content/notes/AI/Генерация видео.md",
     "content/notes/AI/ИИ инструменты.md",
+    "content/notes/AI/Генерация текста.md",
+    "content/notes/AI/Adobe.md",
+    "Adobe.md",
+    "Adobe FireFly ",
+    "content/notes/AI/Генерация графики.md",
     "content/notes/AI/Stability AI.md",
     "content/notes/AI/Stable Diffusion.md",
     "content/notes/AI/Automatic 1111.md",
@@ -218,11 +222,7 @@
     "content/notes/coding/Работа с GIT.md",
     "Untitled.md",
     "Электроника.md",
-    "content/2023-07-13.md",
     "Untitled.canvas",
-    "content/notes/AI/SDXL.md",
-    "README.md",
-    "CODE_OF_CONDUCT.md",
     "Untitled 1.canvas",
     "screenshot.png",
     "notes",
