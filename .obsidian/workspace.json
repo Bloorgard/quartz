@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "колл",
+                "query": "mark",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +112,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -193,16 +194,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85724974d1575b0a",
+  "active": "54fa42b01b3d0fae",
   "lastOpenFiles": [
-    "content/notes/AI/Генерация видео.md",
+    "content/notes/AI/Stability AI.md",
     "content/notes/AI/ИИ инструменты.md",
+    "content/notes/AI/Генерация видео.md",
     "content/notes/AI/Генерация текста.md",
     "content/notes/AI/Adobe.md",
     "Adobe.md",
     "Adobe FireFly ",
     "content/notes/AI/Генерация графики.md",
-    "content/notes/AI/Stability AI.md",
     "content/notes/AI/Stable Diffusion.md",
     "content/notes/AI/Automatic 1111.md",
     "content/notes/AI/SD models.md",
