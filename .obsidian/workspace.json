@@ -13,10 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/AI/SD models.md",
+                "file": "content/notes/AI/ИИ инструменты.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "8b5ad524236b12d3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
               }
             }
           },
@@ -56,7 +66,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/AI/SD models.md",
+                "file": "content/notes/AI/ИИ инструменты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/AI/SD models.md",
+                "file": "content/notes/AI/ИИ инструменты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/AI/SD models.md"
+                "file": "content/notes/AI/ИИ инструменты.md"
               }
             }
           }
@@ -183,18 +194,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85724974d1575b0a",
+  "active": "8b5ad524236b12d3",
   "lastOpenFiles": [
+    "content/notes/AI/Генерация графики.md",
+    "content/notes/AI/ИИ инструменты.md",
+    "content/notes/AI/Stability AI.md",
+    "content/notes/AI/Stable Diffusion.md",
     "content/notes/AI/Automatic 1111.md",
-    "content/notes/AI/ControlNet.md",
     "content/notes/AI/SD models.md",
+    "content/notes/AI/ControlNet.md",
     "content/notes/AI/SD v1.5.md",
     "SD v2.1.md",
-    "content/notes/AI/Stable Diffusion.md",
-    "content/notes/AI/ИИ инструменты.md",
     "YandexGPT.md",
     "content/_index.md",
-    "content/notes/AI/Stability AI.md",
     "content/notes/coding/Креативный кодинг/Креативный кодинг.md",
     "content/notes/coding/Кодинг.md",
     "SoundFeel.md",
@@ -211,7 +223,6 @@
     "content/notes/AI/SDXL.md",
     "README.md",
     "CODE_OF_CONDUCT.md",
-    "2023-08-17.md",
     "Untitled 1.canvas",
     "screenshot.png",
     "notes",
