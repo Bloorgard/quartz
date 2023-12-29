@@ -20,48 +20,6 @@
             }
           },
           {
-            "id": "800715691df552c8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
-          },
-          {
-            "id": "2ea2ec27cb3151eb",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
-          },
-          {
-            "id": "8b5ad524236b12d3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
-          },
-          {
-            "id": "44430ece760f5a4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SoundFeel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "47a28691cd34c575",
             "type": "leaf",
             "state": {
@@ -74,24 +32,12 @@
             }
           },
           {
-            "id": "e0ad92d340818983",
+            "id": "5af6b05c512be1ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Избранные работы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "489143b2c23a41dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/AI/Adobe.md",
+                "file": "Самолёт рабочие файлы.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "con",
+                "query": "ней",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -235,17 +182,22 @@
   },
   "active": "85724974d1575b0a",
   "lastOpenFiles": [
+    "content/_index.md",
+    "лекции.md",
+    "content/notes/ideas/Шахматы.md",
+    "Самолёт рабочие файлы.md",
+    "content/notes/AI/ИИ инструменты.md",
+    "Untitled 1.canvas",
+    "2023-11-25.md",
+    "Избранные работы.md",
+    "SoundFeel.md",
+    "content/notes/AI/Adobe.md",
     "content/notes/AI/OpenAi.md",
     "content/notes/AI/Dall-e.md",
-    "content/notes/AI/ИИ инструменты.md",
     "content/notes/AI/Stability AI.md",
     "content/notes/AI/Stable Diffusion.md",
     "content/notes/AI/Automatic 1111.md",
     "Untitled.canvas",
-    "SoundFeel.md",
-    "content/notes/ideas/Шахматы.md",
-    "Избранные работы.md",
-    "content/notes/AI/Adobe.md",
     "2023-10-03.md",
     "content/notes/AI/ControlNet.md",
     "content/notes/AI/Midjorney.md",
@@ -258,12 +210,7 @@
     "content/notes/AI/SD v1.5.md",
     "SD v2.1.md",
     "YandexGPT.md",
-    "content/_index.md",
     "content/notes/coding/Креативный кодинг/Креативный кодинг.md",
-    "content/notes/coding/Кодинг.md",
-    "content/notes/Work/Топ студий.md",
-    "Дизайн ссылки.md",
-    "Untitled 1.canvas",
     "screenshot.png",
     "notes",
     "content/notes/ideas"
