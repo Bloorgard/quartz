@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "530c8ab8f40be648",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
+          },
+          {
             "id": "47a28691cd34c575",
             "type": "leaf",
             "state": {
@@ -38,6 +48,54 @@
               "type": "markdown",
               "state": {
                 "file": "Самолёт рабочие файлы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "210556bb87e1a5a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b50eacea4ab3795",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fonts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15a034a1f4ac895b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Аудиофилия.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "853ff1cde72db3f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Дизайнеры, о которых стоит знать.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ней",
+                "query": "само",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +147,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -160,7 +217,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -182,16 +241,21 @@
   },
   "active": "85724974d1575b0a",
   "lastOpenFiles": [
+    "Дизайнеры, о которых стоит знать.md",
+    "Аудиофилия.md",
+    "fonts.md",
     "content/_index.md",
-    "лекции.md",
-    "content/notes/ideas/Шахматы.md",
     "Самолёт рабочие файлы.md",
+    "content/notes/ideas/Шахматы.md",
     "content/notes/AI/ИИ инструменты.md",
+    "content/notes/AI/Генерация звука.md",
+    "content/notes/AI/Adobe FireFly.md",
+    "Традиции.md",
+    "лекции.md",
     "Untitled 1.canvas",
     "2023-11-25.md",
     "Избранные работы.md",
     "SoundFeel.md",
-    "content/notes/AI/Adobe.md",
     "content/notes/AI/OpenAi.md",
     "content/notes/AI/Dall-e.md",
     "content/notes/AI/Stability AI.md",
@@ -206,11 +270,6 @@
     "Adobe.md",
     "Adobe FireFly ",
     "content/notes/AI/Генерация графики.md",
-    "content/notes/AI/SD models.md",
-    "content/notes/AI/SD v1.5.md",
-    "SD v2.1.md",
-    "YandexGPT.md",
-    "content/notes/coding/Креативный кодинг/Креативный кодинг.md",
     "screenshot.png",
     "notes",
     "content/notes/ideas"
