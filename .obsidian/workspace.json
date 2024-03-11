@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/AI/ИИ инструменты.md",
+                "file": "inswapper.md",
                 "mode": "source",
                 "source": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/AI/ИИ инструменты.md",
+                "file": "inswapper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/AI/ИИ инструменты.md",
+                "file": "inswapper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/AI/ИИ инструменты.md"
+                "file": "inswapper.md"
               }
             }
           },
@@ -253,11 +253,12 @@
   },
   "active": "85724974d1575b0a",
   "lastOpenFiles": [
-    "content/notes/AI/Stable Diffusion.md",
     "content/notes/AI/ИИ инструменты.md",
+    "content/notes/ideas/Шахматы.md",
+    "inswapper.md",
+    "content/notes/AI/Stable Diffusion.md",
     "content/notes/AI/SD models.md",
     "content/notes/AI/ComfyUI.md",
-    "inswapper.md",
     "content/notes/AI/OpenSouce LLM.md",
     "content/_index.md",
     "Электроника.md",
@@ -271,7 +272,6 @@
     "Adobe.md",
     "Дизайнеры, о которых стоит знать.md",
     "Аудиофилия.md",
-    "content/notes/ideas/Шахматы.md",
     "content/notes/AI/Генерация звука.md",
     "content/notes/AI/Adobe FireFly.md",
     "лекции.md",
