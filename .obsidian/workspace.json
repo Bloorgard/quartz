@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inswapper.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Электроника.md",
+                "file": "Традиции.md",
                 "mode": "source",
                 "source": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inswapper.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inswapper.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inswapper.md"
+                "file": "content/_index.md"
               }
             }
           },
@@ -253,35 +253,35 @@
   },
   "active": "85724974d1575b0a",
   "lastOpenFiles": [
-    "content/notes/AI/ИИ инструменты.md",
-    "content/notes/ideas/Шахматы.md",
-    "inswapper.md",
-    "content/notes/AI/Stable Diffusion.md",
-    "content/notes/AI/SD models.md",
-    "content/notes/AI/ComfyUI.md",
-    "content/notes/AI/OpenSouce LLM.md",
+    "content/notes/coding/Креативный кодинг/Креативный кодинг.md",
     "content/_index.md",
-    "Электроника.md",
+    "content/notes/coding/Кодинг.md",
+    "content/notes/AI/ИИ инструменты.md",
     "Традиции.md",
     "Настройка GPT.md",
-    "Самолёт рабочие файлы.md",
-    "SD v2.1.md",
-    "SoundFeel.md",
-    "README.md",
-    "fonts.md",
-    "Adobe.md",
-    "Дизайнеры, о которых стоит знать.md",
-    "Аудиофилия.md",
-    "content/notes/AI/Генерация звука.md",
-    "content/notes/AI/Adobe FireFly.md",
     "лекции.md",
-    "Untitled 1.canvas",
-    "2023-11-25.md",
     "Избранные работы.md",
-    "content/notes/AI/OpenAi.md",
-    "content/notes/AI/Dall-e.md",
+    "Дизайнеры, о которых стоит знать.md",
+    "Дизайн ссылки.md",
+    "Аудиофилия.md",
+    "SoundFeel.md",
+    "fonts.md",
+    "content/2023-07-13.md",
+    "Электроника.md",
+    "content/notes/AI/SD v2.1.md",
+    "идеи для картинки гивэвей.md",
+    "2023-10-03.md",
+    "2023-11-25.md",
+    "Adobe.md",
+    "README.md",
+    "content/notes/AI/inswapper.md",
+    "Untitled 1.canvas",
     "Untitled.canvas",
-    "Adobe FireFly ",
+    "Untitled.md",
+    "content/notes/ideas/Шахматы.md",
+    "content/notes/AI/Stable Diffusion.md",
+    "content/notes/AI/SD models.md",
+    "content/notes/AI/Adobe FireFly ",
     "screenshot.png",
     "notes",
     "content/notes/ideas"
