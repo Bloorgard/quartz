@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/AI/ИИ инструменты.md",
                 "mode": "source",
                 "source": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/AI/ИИ инструменты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/AI/ИИ инструменты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/notes/AI/ИИ инструменты.md"
               }
             }
           },
@@ -253,10 +253,19 @@
   },
   "active": "85724974d1575b0a",
   "lastOpenFiles": [
-    "content/notes/coding/Креативный кодинг/Креативный кодинг.md",
-    "content/_index.md",
-    "content/notes/coding/Кодинг.md",
+    "content/notes/AI/Сбер.md",
+    "content/notes/AI/Кандинский.md",
+    "GigaChat.md",
     "content/notes/AI/ИИ инструменты.md",
+    "content/notes/AI/Midjorney.md",
+    "content/notes/AI/Dall-e.md",
+    "content/notes/AI/Adobe FireFly.md",
+    "content/notes/AI/Шедеврум.md",
+    "content/notes/AI/YandexGPT.md",
+    "content/notes/AI/ChatGPT.md",
+    "content/_index.md",
+    "content/notes/coding/Креативный кодинг/Креативный кодинг.md",
+    "content/notes/coding/Кодинг.md",
     "Традиции.md",
     "Настройка GPT.md",
     "лекции.md",
@@ -270,17 +279,8 @@
     "Электроника.md",
     "content/notes/AI/SD v2.1.md",
     "идеи для картинки гивэвей.md",
-    "2023-10-03.md",
-    "2023-11-25.md",
-    "Adobe.md",
-    "README.md",
-    "content/notes/AI/inswapper.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Untitled.md",
-    "content/notes/ideas/Шахматы.md",
-    "content/notes/AI/Stable Diffusion.md",
-    "content/notes/AI/SD models.md",
     "content/notes/AI/Adobe FireFly ",
     "screenshot.png",
     "notes",

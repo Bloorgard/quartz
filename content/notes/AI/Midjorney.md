@@ -1,15 +1,10 @@
+Пока что доступен только(!) в дискорде и только по платной подписке
+https://www.midjourney.com/
 
-
+Отдельного внимания заслуживает страница на сайте, с чужими генерациями. Если я подпибираю промпт, то я иду сначала туда и ищу по предмету или тематике. И уже с промптом иду в миджорни
+https://www.midjourney.com/explore
 
 Генератор промптов
 https://midjourney-online.ru/midjourney-generator.php
-
-
-
-
-**minimal 3d gloopy object with branches, metallic parts, 4k**
-
-floating with 100 dollar bills
-**with 100 dollar bills as wings**
 
 
