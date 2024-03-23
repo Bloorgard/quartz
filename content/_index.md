@@ -12,7 +12,7 @@ enableToc: false
 [[notes/AI/ИИ инструменты|Нейросетевые инструменты]]
 
 [[Кодинг]]<br>
-[[notes/coding/Креативный кодинг/Креативный кодинг|Креативный кодинг]]
+[[Creative Coding|Creative Coding]]
 
 
 

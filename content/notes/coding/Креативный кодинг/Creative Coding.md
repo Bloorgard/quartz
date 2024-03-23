@@ -98,3 +98,6 @@ https://bangbangeducation.ru/course/kreativnyy-koding — бесплатный
 https://softculture.cc/courses/architects/generative-design-marathon — Трёхдневный интенсив GRASSHOPPER (1,5к)
 
 https://setka.design/ — основы генеративного дизайна
+
+Python for Designers
+https://www.youtube.com/watch?v=hcmFn-fGe94&ab_channel=PythonMilano
