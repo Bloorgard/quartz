@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/AI/ИИ инструменты.md",
+                "file": "content/notes/AI/Принципы работы ИИ.md",
                 "mode": "source",
                 "source": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/AI/ИИ инструменты.md",
+                "file": "content/notes/AI/Принципы работы ИИ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/AI/ИИ инструменты.md",
+                "file": "content/notes/AI/Принципы работы ИИ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/AI/ИИ инструменты.md"
+                "file": "content/notes/AI/Принципы работы ИИ.md"
               }
             }
           },
@@ -253,8 +253,9 @@
   },
   "active": "85724974d1575b0a",
   "lastOpenFiles": [
-    "TripoSR.md",
     "content/notes/AI/ИИ инструменты.md",
+    "content/notes/AI/Принципы работы ИИ.md",
+    "TripoSR.md",
     "GigaChat.md",
     "content/notes/AI/Сбер.md",
     "content/notes/AI/Кандинский.md",
@@ -278,7 +279,6 @@
     "fonts.md",
     "content/2023-07-13.md",
     "Электроника.md",
-    "content/notes/AI/SD v2.1.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "content/notes/AI/Adobe FireFly ",
