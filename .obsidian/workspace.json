@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/AI/ИИ инструменты.md",
+                "file": "Лист подписок — AI.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/AI/ИИ инструменты.md",
+                "file": "Лист подписок — AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/AI/ИИ инструменты.md",
+                "file": "Лист подписок — AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/AI/ИИ инструменты.md"
+                "file": "Лист подписок — AI.md"
               }
             }
           },
@@ -209,9 +209,9 @@
   },
   "active": "85724974d1575b0a",
   "lastOpenFiles": [
-    "Настройка GPT.md",
     "content/notes/AI/ИИ инструменты.md",
     "Лист подписок — AI.md",
+    "Настройка GPT.md",
     "AI Бенчмарки.md",
     "content/notes/AI/Stability AI.md",
     "content/notes/AI/Stable Diffusion.md",
