@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лист подписок — AI.md",
+                "file": "content/notes/AI/ИИ инструменты.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Лист подписок — AI.md",
+                "file": "content/notes/AI/ИИ инструменты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Лист подписок — AI.md",
+                "file": "content/notes/AI/ИИ инструменты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Лист подписок — AI.md"
+                "file": "content/notes/AI/ИИ инструменты.md"
               }
             }
           },
@@ -209,6 +209,7 @@
   },
   "active": "85724974d1575b0a",
   "lastOpenFiles": [
+    "Лист подписок AI.md",
     "content/notes/AI/ИИ инструменты.md",
     "Лист подписок — AI.md",
     "Настройка GPT.md",
@@ -234,7 +235,6 @@
     "content/notes/AI/YandexGPT.md",
     "content/notes/AI/ChatGPT.md",
     "content/_index.md",
-    "content/notes/coding/Кодинг.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "content/notes/AI/Adobe FireFly ",
