@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/AI/Принципы работы ИИ.md",
+                "file": "content/notes/AI/ИИ инструменты.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "530c8ab8f40be648",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
               }
             }
           },
@@ -36,30 +26,6 @@
               "type": "markdown",
               "state": {
                 "file": "content/notes/ideas/Шахматы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "210556bb87e1a5a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/AI/ИИ инструменты.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b50eacea4ab3795",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "fonts.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,18 +62,6 @@
               "type": "markdown",
               "state": {
                 "file": "Настройка GPT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ea11bc74799e3d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Традиции.md",
                 "mode": "source",
                 "source": false
               }
@@ -163,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1f2c591ad4540e79",
@@ -179,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/AI/Принципы работы ИИ.md",
+                "file": "content/notes/AI/ИИ инструменты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/AI/Принципы работы ИИ.md",
+                "file": "content/notes/AI/ИИ инструменты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/AI/Принципы работы ИИ.md"
+                "file": "content/notes/AI/ИИ инструменты.md"
               }
             }
           },
@@ -239,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,8 +209,19 @@
   },
   "active": "85724974d1575b0a",
   "lastOpenFiles": [
+    "Настройка GPT.md",
     "content/notes/AI/ИИ инструменты.md",
+    "Лист подписок — AI.md",
+    "AI Бенчмарки.md",
+    "content/notes/AI/Stability AI.md",
+    "content/notes/AI/Stable Diffusion.md",
     "content/notes/AI/Принципы работы ИИ.md",
+    "content/notes/AI/inswapper.md",
+    "Традиции.md",
+    "Дизайнеры, о которых стоит знать.md",
+    "content/notes/ideas/Шахматы.md",
+    "Аудиофилия.md",
+    "fonts.md",
     "TripoSR.md",
     "GigaChat.md",
     "content/notes/AI/Сбер.md",
@@ -268,17 +235,6 @@
     "content/notes/AI/ChatGPT.md",
     "content/_index.md",
     "content/notes/coding/Кодинг.md",
-    "Традиции.md",
-    "Настройка GPT.md",
-    "лекции.md",
-    "Избранные работы.md",
-    "Дизайнеры, о которых стоит знать.md",
-    "Дизайн ссылки.md",
-    "Аудиофилия.md",
-    "SoundFeel.md",
-    "fonts.md",
-    "content/2023-07-13.md",
-    "Электроника.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "content/notes/AI/Adobe FireFly ",
