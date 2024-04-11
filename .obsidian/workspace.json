@@ -11,8 +11,22 @@
             "id": "85724974d1575b0a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/AI/ИИ инструменты.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6bad99bd68944e88",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
             }
           },
           {
@@ -129,6 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/notes/AI/ИИ инструменты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/notes/AI/ИИ инструменты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +182,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/notes/AI/ИИ инструменты.md"
+              }
             }
           },
           {
@@ -198,12 +216,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e4d547e4c6046ae",
+  "active": "85724974d1575b0a",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "2024-03-31.md",
-    "content/notes/AI/Лист подписок AI.md",
+    "suno tutorial.md",
     "content/notes/AI/ИИ инструменты.md",
+    "Cloude tutorials.md",
+    "content/notes/AI/Лист подписок AI.md",
+    "2024-03-31.md",
+    "Untitled.canvas",
     "Лист подписок — AI.md",
     "content/notes/AI/Настройка GPT.md",
     "content/notes/AI/AI Бенчмарки.md",
@@ -225,7 +245,6 @@
     "content/notes/AI/Dall-e.md",
     "content/notes/AI/Adobe FireFly.md",
     "content/notes/AI/Шедеврум.md",
-    "content/notes/AI/YandexGPT.md",
     "Untitled 1.canvas",
     "content/notes/AI/Adobe FireFly ",
     "screenshot.png",
