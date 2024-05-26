@@ -71,8 +71,6 @@
 
 
 
-
-
 ### Промпты
 - [Stable Diffusion V1 Modifier Studies](https://proximacentaurib.notion.site/2b07d3195d5948c6a7e5836f9d535592?v=b5b75a67cc52483c9965cfc141f6f582)
 - [Генератор промптов](https://promptomania.com/creative-fabrica-spark-prompt-builder/)

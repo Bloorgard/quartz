@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/AI/ИИ инструменты.md",
+                "file": "content/notes/AI/Принципы работы ИИ.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "6bad99bd68944e88",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
               }
             }
           },
@@ -72,6 +62,18 @@
               "type": "markdown",
               "state": {
                 "file": "content/notes/AI/Настройка GPT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f82dd927a8a85d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Krea.ai.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +125,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -143,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/AI/ИИ инструменты.md",
+                "file": "content/notes/AI/Принципы работы ИИ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/AI/ИИ инструменты.md",
+                "file": "content/notes/AI/Принципы работы ИИ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/AI/ИИ инструменты.md"
+                "file": "content/notes/AI/Принципы работы ИИ.md"
               }
             }
           },
@@ -218,33 +221,33 @@
   },
   "active": "85724974d1575b0a",
   "lastOpenFiles": [
-    "suno tutorial.md",
     "content/notes/AI/ИИ инструменты.md",
+    "content/notes/AI/Принципы работы ИИ.md",
+    "TripoSR.md",
+    "content/notes/AI/AI Бенчмарки.md",
+    "Krea.ai.md",
+    "content/notes/AI/Stable Diffusion.md",
+    "content/notes/AI/SD models.md",
+    "content/notes/AI/SD v1.5.md",
+    "content/notes/AI/Stability AI.md",
+    "content/notes/AI/Кейсы применения AI.md",
+    "content/notes/AI/suno tutorial.md",
     "Cloude tutorials.md",
     "content/notes/AI/Лист подписок AI.md",
     "2024-03-31.md",
     "Untitled.canvas",
-    "Лист подписок — AI.md",
+    "content/notes/AI/Лист подписок — AI.md",
     "content/notes/AI/Настройка GPT.md",
-    "content/notes/AI/AI Бенчмарки.md",
-    "content/notes/AI/Stability AI.md",
-    "content/notes/AI/Stable Diffusion.md",
-    "content/notes/AI/Принципы работы ИИ.md",
     "content/notes/AI/inswapper.md",
     "Традиции.md",
     "Дизайнеры, о которых стоит знать.md",
     "content/notes/ideas/Шахматы.md",
     "Аудиофилия.md",
     "fonts.md",
-    "TripoSR.md",
     "content/notes/AI/GigaChat.md",
     "content/notes/AI/Сбер.md",
     "content/notes/AI/Кандинский.md",
     "content/notes/coding/Креативный кодинг/Creative Coding.md",
-    "content/notes/AI/Midjorney.md",
-    "content/notes/AI/Dall-e.md",
-    "content/notes/AI/Adobe FireFly.md",
-    "content/notes/AI/Шедеврум.md",
     "Untitled 1.canvas",
     "content/notes/AI/Adobe FireFly ",
     "screenshot.png",

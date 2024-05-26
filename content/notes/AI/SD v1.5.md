@@ -19,6 +19,7 @@
 
 #### Интересные
 - Китайский комикс https://civitai.com/models/108598/7070s-chinese-comics
+- Интересный фотостиль https://civitai.com/models/43977/leosams-helloworld-xl
 
 Хрен с ним. Аниме
 - https://civitai.com/models/105047/break-the-darkness
