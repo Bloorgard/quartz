@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/AI/Принципы работы ИИ.md",
+                "file": "content/notes/AI/Кейсы применения AI.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "15a034a1f4ac895b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Аудиофилия.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "853ff1cde72db3f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Дизайнеры, о которых стоит знать.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9940f0b14fc6c5fd",
             "type": "leaf",
             "state": {
@@ -68,18 +44,30 @@
             }
           },
           {
-            "id": "9f82dd927a8a85d0",
+            "id": "0962206ac7f124f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Krea.ai.md",
+                "file": "content/notes/AI/ИИ инструменты.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "25753a550b42a57b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -125,12 +113,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "1f2c591ad4540e79",
@@ -146,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/AI/Принципы работы ИИ.md",
+                "file": "content/notes/AI/ИИ инструменты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/AI/Принципы работы ИИ.md",
+                "file": "content/notes/AI/ИИ инструменты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/AI/Принципы работы ИИ.md"
+                "file": "content/notes/AI/ИИ инструменты.md"
               }
             }
           },
@@ -219,35 +206,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85724974d1575b0a",
+  "active": "0962206ac7f124f3",
   "lastOpenFiles": [
+    "content/notes/AI/Лист подписок AI.md",
     "content/notes/AI/ИИ инструменты.md",
+    "content/notes/AI/Кейсы применения AI.md",
+    "content/notes/AI/Stability AI.md",
     "content/notes/AI/Принципы работы ИИ.md",
+    "content/notes/AI/Настройка GPT.md",
+    "content/notes/ideas/Шахматы.md",
+    "content/notes/AI/Генерация звука.md",
+    "content/notes/AI/suno tutorial.md",
+    "content/notes/AI/Adobe FireFly.md",
+    "Krea.ai.md",
+    "Аудиофилия.md",
+    "Дизайнеры, о которых стоит знать.md",
     "TripoSR.md",
     "content/notes/AI/AI Бенчмарки.md",
-    "Krea.ai.md",
     "content/notes/AI/Stable Diffusion.md",
     "content/notes/AI/SD models.md",
     "content/notes/AI/SD v1.5.md",
-    "content/notes/AI/Stability AI.md",
-    "content/notes/AI/Кейсы применения AI.md",
-    "content/notes/AI/suno tutorial.md",
     "Cloude tutorials.md",
-    "content/notes/AI/Лист подписок AI.md",
     "2024-03-31.md",
     "Untitled.canvas",
     "content/notes/AI/Лист подписок — AI.md",
-    "content/notes/AI/Настройка GPT.md",
     "content/notes/AI/inswapper.md",
     "Традиции.md",
-    "Дизайнеры, о которых стоит знать.md",
-    "content/notes/ideas/Шахматы.md",
-    "Аудиофилия.md",
     "fonts.md",
     "content/notes/AI/GigaChat.md",
     "content/notes/AI/Сбер.md",
-    "content/notes/AI/Кандинский.md",
-    "content/notes/coding/Креативный кодинг/Creative Coding.md",
     "Untitled 1.canvas",
     "content/notes/AI/Adobe FireFly ",
     "screenshot.png",
