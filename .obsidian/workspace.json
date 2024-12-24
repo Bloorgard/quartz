@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "56cfc0b01575f689",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/AI/ИИ инструменты.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ИИ инструменты"
+            }
+          },
+          {
             "id": "9940f0b14fc6c5fd",
             "type": "leaf",
             "state": {
@@ -60,21 +74,21 @@
             }
           },
           {
-            "id": "56cfc0b01575f689",
+            "id": "b23f778c0d905c4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ы.md",
+                "file": "Minimaxi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ы"
+              "title": "Minimaxi"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ии",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -233,36 +247,36 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "0962206ac7f124f3",
+  "active": "56cfc0b01575f689",
   "lastOpenFiles": [
-    "content/notes/AI/suno tutorial.md",
-    "ы.md",
-    "content/notes/AI/ИИ инструменты.md",
-    "content/notes/AI/Генерация звука.md",
-    "content/notes/AI/Настройка GPT.md",
+    "xAI Grok.md",
     "content/notes/ideas/Шахматы.md",
-    "content/notes/AI/Кейсы применения AI.md",
-    "content/notes/AI/Midjorney.md",
+    "content/notes/AI/ИИ инструменты.md",
+    "Anthropic.md",
+    "content/notes/AI/OpenAi.md",
+    "Black Forest Labs.md",
     "content/notes/AI/Stability AI.md",
+    "content/notes/AI/Настройка GPT.md",
+    "Minimaxi.md",
+    "content/_index.md",
+    "ы.md",
+    "2024-12-21.md",
+    "content/notes/AI/Midjorney.md",
+    "Звук.md",
+    "Видео.md",
+    "content/notes/AI/Лист подписок AI.md",
+    "content/notes/AI/Генерация графики.md",
+    "Untitled 1.canvas",
+    "content/notes/AI/suno tutorial.md",
+    "content/notes/AI/Генерация звука.md",
+    "content/notes/AI/Кейсы применения AI.md",
     "content/notes/AI/Принципы работы ИИ.md",
     "Flux.md",
-    "content/notes/AI/Лист подписок AI.md",
     "content/notes/AI/Adobe FireFly.md",
     "Krea.ai.md",
     "Аудиофилия.md",
     "Дизайнеры, о которых стоит знать.md",
-    "TripoSR.md",
-    "content/notes/AI/AI Бенчмарки.md",
-    "content/notes/AI/Stable Diffusion.md",
-    "content/notes/AI/SD models.md",
-    "content/notes/AI/SD v1.5.md",
-    "Cloude tutorials.md",
-    "2024-03-31.md",
     "Untitled.canvas",
-    "content/notes/AI/Лист подписок — AI.md",
-    "content/notes/AI/inswapper.md",
-    "Традиции.md",
-    "Untitled 1.canvas",
     "content/notes/AI/Adobe FireFly ",
     "screenshot.png",
     "notes",
