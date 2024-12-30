@@ -119,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Изображения",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -247,12 +247,12 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "54fa42b01b3d0fae",
+  "active": "56cfc0b01575f689",
   "lastOpenFiles": [
+    "Anthropic.md",
+    "content/notes/AI/ИИ инструменты.md",
     "xAI Grok.md",
     "content/notes/ideas/Шахматы.md",
-    "content/notes/AI/ИИ инструменты.md",
-    "Anthropic.md",
     "content/notes/AI/OpenAi.md",
     "Black Forest Labs.md",
     "content/notes/AI/Stability AI.md",
