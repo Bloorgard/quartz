@@ -119,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ии",
+                "query": "tag:#Изображения",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -247,7 +247,7 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "56cfc0b01575f689",
+  "active": "54fa42b01b3d0fae",
   "lastOpenFiles": [
     "xAI Grok.md",
     "content/notes/ideas/Шахматы.md",
