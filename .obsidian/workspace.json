@@ -79,16 +79,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minimaxi.md",
+                "file": "content/notes/AI/ИИ инструменты.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Minimaxi"
+              "title": "ИИ инструменты"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -231,8 +231,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,17 +246,20 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "56cfc0b01575f689",
+  "active": "b23f778c0d905c4b",
   "lastOpenFiles": [
-    "Anthropic.md",
+    "content/notes/AI/Принципы работы ИИ.md",
     "content/notes/AI/ИИ инструменты.md",
+    "content/notes/AI/OpenSouce LLM.md",
+    "Minimaxi.md",
+    "Untitled.md",
+    "Anthropic.md",
     "xAI Grok.md",
     "content/notes/ideas/Шахматы.md",
     "content/notes/AI/OpenAi.md",
     "Black Forest Labs.md",
     "content/notes/AI/Stability AI.md",
     "content/notes/AI/Настройка GPT.md",
-    "Minimaxi.md",
     "content/_index.md",
     "ы.md",
     "2024-12-21.md",
@@ -270,12 +272,9 @@
     "content/notes/AI/suno tutorial.md",
     "content/notes/AI/Генерация звука.md",
     "content/notes/AI/Кейсы применения AI.md",
-    "content/notes/AI/Принципы работы ИИ.md",
     "Flux.md",
     "content/notes/AI/Adobe FireFly.md",
     "Krea.ai.md",
-    "Аудиофилия.md",
-    "Дизайнеры, о которых стоит знать.md",
     "Untitled.canvas",
     "content/notes/AI/Adobe FireFly ",
     "screenshot.png",
