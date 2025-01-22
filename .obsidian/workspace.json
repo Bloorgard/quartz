@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/AI/ИИ инструменты.md",
+                "file": "Избранные работы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ИИ инструменты"
+              "title": "Избранные работы"
             }
           }
         ],
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/AI/ИИ инструменты.md",
+                "file": "Избранные работы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ИИ инструменты"
+              "title": "Backlinks for Избранные работы"
             }
           },
           {
@@ -247,9 +247,21 @@
   },
   "active": "b23f778c0d905c4b",
   "lastOpenFiles": [
+    "лекции.md",
+    "ы.md",
+    "content/notes/AI/ИИ инструменты.md",
+    "content/notes/AI/Runway.md",
+    "content/notes/AI/Perplexity.md",
+    "content/notes/AI/Meta.md",
+    "content/notes/AI/Google DeepMind.md",
+    "content/notes/AI/cohere.md",
+    "content/notes/AI/deepseek.md",
+    "content/notes/AI/Mistral.md",
+    "content/notes/AI/getimg.ai.md",
+    "content/notes/AI/openart.ai.md",
+    "content/notes/AI/TripoSR.md",
     "content/templates/post.md",
     "content/templates/pivate note.md",
-    "content/notes/AI/ИИ инструменты.md",
     "content/notes/quartz/editing.md",
     "content/notes/quartz/docker.md",
     "content/notes/quartz/custom Domain.md",
@@ -260,22 +272,10 @@
     "Дизайн ссылки.md",
     "Видео.md",
     "Избранные работы.md",
-    "лекции.md",
-    "ы.md",
     "Традиции.md",
     "2024-12-21.md",
-    "2024-03-31.md",
     "Untitled 1.canvas",
-    "Untitled.md",
     "Untitled.canvas",
-    "content/notes/AI/Принципы работы ИИ.md",
-    "content/notes/AI/OpenSouce LLM.md",
-    "content/notes/AI/Minimaxi.md",
-    "content/notes/AI/Anthropic.md",
-    "content/notes/AI/xAI Grok.md",
-    "content/notes/ideas/Шахматы.md",
-    "content/notes/AI/OpenAi.md",
-    "content/notes/AI/Black Forest Labs.md",
     "content/notes/AI/Adobe FireFly ",
     "screenshot.png",
     "notes",
