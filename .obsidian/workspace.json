@@ -50,6 +50,30 @@
             }
           },
           {
+            "id": "52469d038241c1d2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
+          },
+          {
+            "id": "cceaf2b6f9fe2c21",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.3"
+            }
+          },
+          {
             "id": "9940f0b14fc6c5fd",
             "type": "leaf",
             "state": {
@@ -88,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +131,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -160,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Избранные работы.md",
+                "file": "content/notes/AI/ИИ инструменты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +195,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Избранные работы"
+              "title": "Backlinks for ИИ инструменты"
             }
           },
           {
@@ -245,11 +270,15 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "b23f778c0d905c4b",
+  "active": "56cfc0b01575f689",
   "lastOpenFiles": [
+    "@pixsels_perceptrons.md",
+    "content/notes/AI/ИИ инструменты.md",
+    "content/notes/AI/OpenAi.md",
+    "content/notes/AI/Настройка GPT.md",
+    "Избранные работы.md",
     "лекции.md",
     "ы.md",
-    "content/notes/AI/ИИ инструменты.md",
     "content/notes/AI/Runway.md",
     "content/notes/AI/Perplexity.md",
     "content/notes/AI/Meta.md",
@@ -270,10 +299,6 @@
     "content/notes/quartz/callouts.md",
     "static/icon.png",
     "Дизайн ссылки.md",
-    "Видео.md",
-    "Избранные работы.md",
-    "Традиции.md",
-    "2024-12-21.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "content/notes/AI/Adobe FireFly ",
