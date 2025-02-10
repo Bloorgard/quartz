@@ -49,11 +49,11 @@ enableToc: true
 - [[Google DeepMind]]
 - [[cohere]]
 - [[Runway]]
+- [[Midjourney|Midjourney]]
+- [[Adobe FireFly]]
 
-- ~~[[notes/AI/Midjorney|Midjorney]]~~
-- ~~[[Adobe FireFly]]~~
-- ~~[[Яндекс]]~~ 
-- ~~[[Сбер]]~~
+- [[Яндекс]]
+- [[Сбер]]
 - [[Perplexity]]
 
 ## AI платформы 
@@ -164,7 +164,7 @@ https://replit.com/
 - [krea](https://krea.ai) — ИМХО, лучшее сейчас
 - [Recraft](https://Recraft.ai) — много возможностией. Неплохая базовая модель
 - [leonardo](https://leonardo.ai) — Почти всё платно. Классный апскейлер
-- [[notes/AI/Midjorney|Midjorney]] — Классный результат из коробки. Сложно контролировать
+- [[Midjourney|Midjourney]] — Классный результат из коробки. Сложно контролировать
 - [visualelectric](https://visualelectric.com)
 - [phygital](https://app.phygital.plus/pricing?utm_source=newsletter&utm_medium=email&utm_campaign=releaseflux)
 - [freepik](https://www.freepik.com/ai)

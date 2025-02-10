@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/AI/AI instruments.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI instruments"
+              "title": "_index"
             }
           },
           {
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/AI/AI instruments.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AI instruments"
+              "title": "Backlinks for _index"
             }
           },
           {
@@ -235,7 +235,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 223.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,12 +252,15 @@
   },
   "active": "56cfc0b01575f689",
   "lastOpenFiles": [
+    "content/notes/AI/AI instruments.md",
+    "content/_index.md",
+    "content/notes/AI/Adobe FireFly.md",
+    "content/notes/AI/Midjourney.md",
     "Wishlist.md",
     "Цитаты.md",
     "ы.md",
     "Untitled",
     "content/notes/AI/Настройка GPT.md",
-    "content/notes/AI/AI instruments.md",
     "@pixsels_perceptrons.md",
     "content/notes/AI/OpenAi.md",
     "Избранные работы.md",
@@ -276,9 +279,6 @@
     "content/templates/pivate note.md",
     "content/notes/quartz/editing.md",
     "content/notes/quartz/docker.md",
-    "content/notes/quartz/custom Domain.md",
-    "content/notes/quartz/config.md",
-    "content/notes/quartz/CJK + Latex Support (测试).md",
     "static/icon.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
