@@ -51,7 +51,6 @@ enableToc: true
 - [[Runway]]
 - [[Midjourney|Midjourney]]
 - [[Adobe FireFly]]
-
 - [[Яндекс]]
 - [[Сбер]]
 - [[Perplexity]]
@@ -68,7 +67,6 @@ enableToc: true
 [together/](https://www.together.ai/)
 
 https://replit.com/
-
 
 
 ---
@@ -104,7 +102,7 @@ https://replit.com/
 - [[GigaChat]] 
 - [hailuo.ai](https://www.hailuo.ai)
 - [deepseek](https://chat.deepseek.com/)
-- character.ai
+- [[character.ai]]
 - Сайга — [статья на хабр](https://habr.com/ru/articles/767588/)
 
 
@@ -150,7 +148,7 @@ https://replit.com/
 - https://creatie.ai/creatie-wizard
 
 
-Агенты
+**Агенты**
 - [agent-zero](https://github.com/frdel/agent-zero)
 - https://www.langflow.org/
 
@@ -231,17 +229,17 @@ https://replit.com/
 
 
 **Перенос стиля:**
-- midjorney — параметр `--sref *ссылка*` даёт возможность загрузить референсное изображение
+- [[Midjourney|Midjourney]] — разные типы референсов, мудборд
 - [vizcom](https://www.vizcom.ai/) — генерация по эскизу + возможность загрузки рефа (ещё бесплатно)
 - [krea.ai](https://www.krea.ai) — даёт возможность генерировать по рефу
 - [Adobe Firefly](https://firefly.adobe.com) — адобовский генератор изображений (требует подписки, но реф работает классно)
 
-Карточки маркетплейсов?
+Для карточек маркетплейсов?
 - https://flair.ai/
 - https://www.photoroom.com/
 
 
-**Виртуальный инфлюенсер*
+**Виртуальный инфлюенсер**
 - [d-id](https://www.d-id.com/)
 - [heygen](https://heygen.com)
 
@@ -268,13 +266,12 @@ https://replit.com/
 **Оптические иллюзии**
 -  [spirals.vercel.app](https://spirals.vercel.app) — оптические иллюзии
 
-- https://textify.storia.ai/ — замена косячного текста в нейро генерациях
 
 Редактирование эмоций
 - https://huggingface.co/spaces/fffiloni/expression-editor
 - https://huggingface.co/spaces/KwaiVGI/LivePortrait
 - https://huggingface.co/spaces/jbilcke-hf/FacePoke
-- 
+
 
 ---
 ## 3D
@@ -289,8 +286,9 @@ https://replit.com/
 - [Meshy](https://www.meshy.ai/)
 - [[TripoSR]]   
 
-3D арена
+**3D арена**
 - https://huggingface.co/spaces/dylanebert/3d-arena
+
 
 **Создание панорам:**
 - https://skybox.blockadelabs.com/ — стало платно
@@ -321,8 +319,9 @@ https://replit.com/
 - [Domoai](https://domoai.app/) — (дискорд. Преимущественно в стиле Аниме)
 
 
-Видео редактор
+**Видео редактор**
 https://github.com/fal-ai-community/video-starter-kit
+
 
 **Липсингинг**
 - https://humanaigc.github.io/emote-portrait-alive/
@@ -369,7 +368,7 @@ https://github.com/fal-ai-community/video-starter-kit
 - https://thewh1teagle.github.io/vibe/
 
 
- Облачные решения
+ Облачные решения:
 - https://graydientplatform.com/graydient-pass-stable-diffusion-hosted-llm-bots/
 - https://diffusionhub.io/summary
 - https://cloud.vast.ai/create
