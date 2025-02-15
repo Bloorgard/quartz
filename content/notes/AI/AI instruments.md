@@ -31,7 +31,7 @@ enableToc: true
 <a href="https://bloorgard.github.io/quartz/notes/AI/ИИ-инструменты/#звук">Звук</a> <br>
 
 ---
-# Компании и стартапы
+## Компании и стартапы
 
 Крупные компании, которые ведут разработки в области AI и (большинство из представленных) предоставляют доступ к большому количеству продуктов. 
 
@@ -157,6 +157,10 @@ https://replit.com/
 
 В этом разделе собраны списки сервисов, предоставляющих возможности по генерации и редактированию изображений. В первом списке собраны комплексные инструменты, с хорошими моделями (часто собственными). Список сервисов, на которые я предлагаю обратить внимание на эти сервисы прежде всего.
 
+## Арены
+https://artificialanalysis.ai/text-to-image/arena?tab=Arena
+https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena
+
 ## Комплексные сервисы
 
 - [krea](https://krea.ai) — ИМХО, лучшее сейчас
@@ -193,7 +197,6 @@ https://replit.com/
 - [illuminarty](https://illuminarty.ai/en/)
 - [Hive AI Detector](https://chromewebstore.google.com/detail/hive-ai-detector/cmeikcgfecnhojcbfapbmpbjgllklcbi) 
 - [brandwell](https://brandwell.ai/ai-image-detector/)
-
 
 ## Специализированные тулы
 
