@@ -9,7 +9,7 @@ enableToc: false
 ## Cписки
 
 Список нейросетевых инструментов <br>
-[[AI instruments|Нейросетевые инструменты]]
+[[AI instruments]]
 
 [[Кодинг]]<br>
 [[Creative Coding|Creative Coding]]
